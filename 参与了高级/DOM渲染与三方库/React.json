@@ -1,0 +1,1 @@
+{"categories":[],"tags":["React","类/函数组件","答案：JSX 是一种 JavaScript 的语法扩展，它允许你在 JavaScript 中写类似 HTML 的标记。JSX 在构建 React 组件时被广泛使用。","JSX编译前后对比？","如何编译JSX"],"flowchartContent":"# 【转流程图语法详见】(https://github.com/hrhr49/tefcha)\n\n# 【转流程图语法示例】\nif score > 80\n  good!\nelif score > 30\n  soso\nelse\n  bad!\nend\n"}
